@@ -74,4 +74,4 @@ doc: archived doc
 cite: the source of comments
 cnt: number of citations
 git: GitHub link
-x-ref: Cross reference
+x-ref: Cross referenc
